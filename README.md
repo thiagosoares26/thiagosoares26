@@ -4,7 +4,7 @@
 
 - 😎 I'm 18 years old
 - 🗺️ From Brazil, São Paulo
-- 👾 Systems development (3/3)
+- 👾 Computer Science (1/8)
 
 ## **Status:**
 <div align="center">

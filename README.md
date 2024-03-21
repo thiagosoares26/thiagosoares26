@@ -9,8 +9,8 @@
 ## **Status:**
 <div align="center">
   <a href="https://github.com/Zeno-Sama15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeno-Sama15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeno-Sama15&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosoares26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosoares26&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## **Skills:**

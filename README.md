@@ -1,10 +1,11 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="210" />
+## Welcome to my profile
+<img top=0 align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="210" />
 
-### **<h1>Welcome to my profile</h1>**
+  - 😎 I'm 18 years old
+  - 🗺️ From Brazil, São Paulo
+  - 👾 Computer Science (2/8)
 
-- 😎 I'm 18 years old
-- 🗺️ From Brazil, São Paulo
-- 👾 Computer Science (1/8)
+    <br><br>
 
 ## **Status:**
 <div align="center">
@@ -39,3 +40,15 @@
   <a href="https://stackoverflow.com/users/19582834/thiago-soares" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-soares-72bb99245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+

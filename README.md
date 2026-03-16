@@ -3,7 +3,7 @@
 
   - 😎 I'm 20 years old
   - 🗺️ From Brazil, São Paulo
-  - 👾 Computer Science (4/8)
+  - 👾 Computer Science (5/8)
 
     <br><br>
 
